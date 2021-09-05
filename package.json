@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ojisan-toybox/zod-union#readme",
   "devDependencies": {
+    "ts-node": "^10.2.1",
     "typescript": "^4.4.2"
   },
   "dependencies": {
