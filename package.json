@@ -1,0 +1,25 @@
+{
+  "name": "zod-union",
+  "version": "1.0.0",
+  "description": "zod における union の扱いを実験する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/zod-union.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/zod-union/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/zod-union#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "zod": "^3.8.2"
+  }
+}
